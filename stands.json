@@ -1,0 +1,900 @@
+{
+  "stands": [
+    {
+      "name": "Star Platinum",
+      "part": 3,
+      "stand_type": "Close-Range",
+      "color": "Purple",
+      "design": "Natural Humanoid",
+      "defeated_by": "Enrico Pucci"
+    },
+    {
+      "name": "Magician's Red",
+      "part": 3,
+      "stand_type": "Close-Range",
+      "color": "Red",
+      "design": "Natural Humanoid",
+      "defeated_by": "Vanilla Ice"
+    },
+    {
+      "name": "Hermit Purple",
+      "part": 3,
+      "stand_type": "Long-Range",
+      "color": "Purple",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "n/a"
+    },
+    {
+      "name": "Hierophant Green",
+      "part": 3,
+      "stand_type": "Long-Range",
+      "color": "Green",
+      "design": "Artificial Non-Humanoid",
+      "defeated_by": "Dio Brando"
+    },
+    {
+      "name": "Silver Chariot",
+      "part": 3,
+      "stand_type": "Close-Range",
+      "color": "Silver",
+      "design": "Artificial Humanoid",
+      "defeated_by": "n/a"
+    },
+    {
+      "name": "The Fool",
+      "part": 3,
+      "stand_type": "Short-Range",
+      "color": "Yellow",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "Vanilla Ice"
+    },
+    {
+      "name": "The World",
+      "part": 3,
+      "stand_type": "Close-Range",
+      "color": "Yellow",
+      "design": "Artificial Humanoid",
+      "defeated_by": "Jotaro Kujo"
+    },
+    {
+      "name": "Tower of Gray",
+      "part": 3,
+      "stand_type": "Close-Range",
+      "color": "Silver",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "Jean Pierre Polnareff"
+    },
+    {
+      "name": "Dark Blue Moon",
+      "part": 3,
+      "stand_type": "Close-Range",
+      "color": "Blue",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "Jotaro Kujo"
+    },
+    {
+      "name": "Strength",
+      "part": 3,
+      "stand_type": "Materialized",
+      "color": "n/a",
+      "design": "Artificial Non-Humanoid",
+      "defeated_by": "Jean Pierre Polnareff"
+    },
+    {
+      "name": "Ebony Devil",
+      "part": 3,
+      "stand_type": "Close-Range",
+      "color": "Black",
+      "design": "Artificial Humanoid",
+      "defeated_by": "Jean Pierre Polnareff"
+    },
+    {
+      "name": "Yellow Temperance",
+      "part": 3,
+      "stand_type": "Close-Range",
+      "color": "Yellow",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "Joseph Joestar"
+    },
+    {
+      "name": "Hanged Man",
+      "part": 3,
+      "stand_type": "Long-Range",
+      "color": "Silver",
+      "design": "Artificial Humanoid",
+      "defeated_by": "Jean Pierre Polnareff"
+    },
+    {
+      "name": "Emperor",
+      "part": 3,
+      "stand_type": "Long-Range",
+      "color": "Gray",
+      "design": "Artificial Humanoid",
+      "defeated_by": "Hol Horse"
+    },
+    {
+      "name": "Empress",
+      "part": 3,
+      "stand_type": "Long-Range",
+      "color": "Pink",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "Muhammad Avdol"
+    },
+    {
+      "name": "Wheel of Fortune",
+      "part": 3,
+      "stand_type": "Materialized",
+      "color": "Red",
+      "design": "Artificial Non-Humanoid",
+      "defeated_by": "Jean Pierre Polnareff"
+    },
+    {
+      "name": "Justice",
+      "part": 3,
+      "stand_type": "Automatic",
+      "color": "Gray",
+      "design": "Artificial Non-Humanoid",
+      "defeated_by": "Jotaro Kujo"
+    },
+    {
+      "name": "Lovers",
+      "part": 3,
+      "stand_type": "Automatic",
+      "color": "Pink",
+      "design": "Natural Humanoid",
+      "defeated_by": "Joseph Joestar"
+    },
+    {
+      "name": "Sun",
+      "part": 3,
+      "stand_type": "Automatic",
+      "color": "Yellow",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "Jotaro Kujo"
+    },
+    {
+      "name": "Death Thirteen",
+      "part": 3,
+      "stand_type": "Psychological Assault",
+      "color": "Gray",
+      "design": "Phenomenon",
+      "defeated_by": "Kakyoin"
+    },
+    {
+      "name": "Judgement",
+      "part": 3,
+      "stand_type": "Automatic",
+      "color": "Gray",
+      "design": "Phenomenon",
+      "defeated_by": "Joseph Joestar"
+    },
+    {
+      "name": "High Priestess",
+      "part": 3,
+      "stand_type": "Automatic",
+      "color": "Gray",
+      "design": "Phenomenon",
+      "defeated_by": "Jotaro Kujo"
+    },
+    {
+      "name": "Geb",
+      "part": 3,
+      "stand_type": "Automatic",
+      "color": "Blue",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "Jotaro Kujo"
+    },
+    {
+      "name": "Khnum",
+      "part": 3,
+      "stand_type": "Automatic",
+      "color": "Yellow",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "Jotaro Kujo"
+    },
+    {
+      "name": "Tohth",
+      "part": 3,
+      "stand_type": "Materialized",
+      "color": "Yellow",
+      "design": "Phenomenon",
+      "defeated_by": "Joseph Joestar"
+    },
+    {
+      "name": "Anubis",
+      "part": 3,
+      "stand_type": "Materialized",
+      "color": "Silver",
+      "design": "Natural Humanoid",
+      "defeated_by": "Jotaro Kujo"
+    },
+    {
+      "name": "Bastet",
+      "part": 3,
+      "stand_type": "Automatic",
+      "color": "Green",
+      "design": "Artificial Non-Humanoid",
+      "defeated_by": "Joseph Joestar"
+    },
+    {
+      "name": "Sethan",
+      "part": 3,
+      "stand_type": "Automatic",
+      "color": "Gray",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "Jotaro Kujo"
+    },
+    {
+      "name": "Osiris",
+      "part": 3,
+      "stand_type": "Psychological Assault",
+      "color": "Gray",
+      "design": "Artificial Humanoid",
+      "defeated_by": "Jotaro Kujo"
+    },
+    {
+      "name": "Horus",
+      "part": 3,
+      "stand_type": "Automatic",
+      "color": "Gray",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "Jotaro Kujo"
+    },
+    {
+      "name": "Atum",
+      "part": 3,
+      "stand_type": "Psychological Assault",
+      "color": "Gray",
+      "design": "Artificial Humanoid",
+      "defeated_by": "Jotaro Kujo"
+    },
+    {
+      "name": "Tenore Sax",
+      "part": 3,
+      "stand_type": "Psychological Assault",
+      "color": "Gray",
+      "design": "Artificial Non-Humanoid",
+      "defeated_by": "Jotaro Kujo"
+    },
+    {
+      "name": "Cream",
+      "part": 3,
+      "stand_type": "Automatic",
+      "color": "White",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "Jotaro Kujo and Iggy"
+    },
+    {
+      "name": "Holy's Stand",
+      "part": 3,
+      "stand_type": "Automatic",
+      "color": "Blue",
+      "design": "Phenomenon",
+      "defeated_by": "Jotaro Kujo"
+    },
+    {
+      "name": "Jonathan's Stand",
+      "part": 3,
+      "stand_type": "Automatic",
+      "color": "Blue",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "Jotaro Kujo"
+    },
+    {
+      "name": "Crazy Diamond",
+      "part": 4,
+      "stand_type": "Close-Range",
+      "color": "Pink",
+      "design": "Natural Humanoid",
+      "defeated_by": "Killer Queen"
+    },
+    {
+      "name": "The Hand",
+      "part": 4,
+      "stand_type": "Close-Range",
+      "color": "Yellow",
+      "design": "Natural Humanoid",
+      "defeated_by": "Killer Queen"
+    },
+    {
+      "name": "Echoes",
+      "part": 4,
+      "stand_type": "Close-Range",
+      "color": "Green",
+      "design": "Artificial Non-Humanoid",
+      "defeated_by": "Killer Queen"
+    },
+    {
+      "name": "Heaven's Door",
+      "part": 4,
+      "stand_type": "Psychological Assault",
+      "color": "Blue",
+      "design": "Artificial Non-Humanoid",
+      "defeated_by": "Killer Queen"
+    },
+    {
+      "name": "Killer Queen",
+      "part": 4,
+      "stand_type": "Close-Range",
+      "color": "Pink",
+      "design": "Natural Humanoid",
+      "defeated_by": "Josuke Higashikata"
+    },
+    {
+      "name": "Sheer Heart Attack",
+      "part": 4,
+      "stand_type": "Automatic",
+      "color": "Pink",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "Josuke Higashikata"
+    },
+    {
+      "name": "Bites the Dust",
+      "part": 4,
+      "stand_type": "Automatic",
+      "color": "Pink",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "Josuke Higashikata"
+    },
+    {
+      "name": "Aqua Necklace",
+      "part": 4,
+      "stand_type": "Automatic",
+      "color": "Blue",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "Jotaro Kujo"
+    },
+    {
+      "name": "Bad Company",
+      "part": 4,
+      "stand_type": "Automatic",
+      "color": "Green",
+      "design": "Artificial Non-Humanoid",
+      "defeated_by": "Josuke Higashikata"
+    },
+    {
+      "name": "Red Hot Chili Pepper",
+      "part": 4,
+      "stand_type": "Long-Range",
+      "color": "Yellow",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "Josuke Higashikata"
+    },
+    {
+      "name": "The Lock",
+      "part": 4,
+      "stand_type": "Automatic",
+      "color": "Yellow",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "Josuke Higashikata"
+    },
+    {
+      "name": "Surface",
+      "part": 4,
+      "stand_type": "Materialized",
+      "color": "Red",
+      "design": "Artificial Non-Humanoid",
+      "defeated_by": "Josuke Higashikata"
+    },
+    {
+      "name": "Love Deluxe",
+      "part": 4,
+      "stand_type": "Close-Range",
+      "color": "Pink",
+      "design": "Natural Humanoid",
+      "defeated_by": "Josuke Higashikata"
+    },
+    {
+      "name": "Pearl Jam",
+      "part": 4,
+      "stand_type": "Close-Range",
+      "color": "Pink",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "Josuke Higashikata"
+    },
+    {
+      "name": "Achtung Baby",
+      "part": 4,
+      "stand_type": "Automatic",
+      "color": "White",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "Killer Queen"
+    },
+    {
+      "name": "Ratt",
+      "part": 4,
+      "stand_type": "Automatic",
+      "color": "Brown",
+      "design": "Artificial Non-Humanoid",
+      "defeated_by": "Josuke Higashikata"
+    },
+    {
+      "name": "Harvest",
+      "part": 4,
+      "stand_type": "Automatic",
+      "color": "Green",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "Josuke Higashikata"
+    },
+    {
+      "name": "Cinderella",
+      "part": 4,
+      "stand_type": "Close-Range",
+      "color": "Pink",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "Josuke Higashikata"
+    },
+    {
+      "name": "Atom Heart Father",
+      "part": 4,
+      "stand_type": "Materialized",
+      "color": "Blue",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "Josuke Higashikata"
+    },
+    {
+      "name": "Boy II Man",
+      "part": 4,
+      "stand_type": "Automatic",
+      "color": "Green",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "Josuke Higashikata"
+    },
+    {
+      "name": "Earth Wind and Fire",
+      "part": 4,
+      "stand_type": "Short-Range",
+      "color": "Blue",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "Josuke Higashikata"
+    },
+    {
+      "name": "Highway Star",
+      "part": 4,
+      "stand_type": "Long-Range",
+      "color": "Purple",
+      "design": "Natural Humanoid",
+      "defeated_by": "Josuke Higashikata"
+    },
+    {
+      "name": "Stray Cat",
+      "part": 4,
+      "stand_type": "Materialized",
+      "color": "Pink",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "Josuke Higashikata"
+    },
+    {
+      "name": "Super Fly",
+      "part": 4,
+      "stand_type": "Materialized",
+      "color": "Gray",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "Josuke Higashikata"
+    },
+    {
+      "name": "Enigma",
+      "part": 4,
+      "stand_type": "Automatic",
+      "color": "Green",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "Josuke Higashikata"
+    },
+    {
+      "name": "Cheap Trick",
+      "part": 4,
+      "stand_type": "Automatic",
+      "color": "Purple",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "Josuke Higashikata"
+    },
+    {
+      "name": "Gold Experience",
+      "part": 5,
+      "stand_type": "Close-Range",
+      "color": "Gold",
+      "design": "Natural Humanoid",
+      "defeated_by": "n/a"
+    },
+    {
+      "name": "Sticky Fingers",
+      "part": 5,
+      "stand_type": "Close-Range",
+      "color": "Brown",
+      "design": "Natural Humanoid",
+      "defeated_by": "n/a"
+    },
+    {
+      "name": "Moody Blues",
+      "part": 5,
+      "stand_type": "Close-Range",
+      "color": "Blue",
+      "design": "Natural Humanoid",
+      "defeated_by": "Diavolo"
+    },
+    {
+      "name": "Sex Pistols",
+      "part": 5,
+      "stand_type": "Long-Range",
+      "color": "Yellow",
+      "design": "Artificial Non-Humanoid",
+      "defeated_by": "n/a"
+    },
+    {
+      "name": "Aerosmith",
+      "part": 5,
+      "stand_type": "Long-Range",
+      "color": "Gray",
+      "design": "Artificial Non-Humanoid",
+      "defeated_by": "Diavolo"
+    },
+    {
+      "name": "Purple Haze",
+      "part": 5,
+      "stand_type": "Close-Range",
+      "color": "Purple",
+      "design": "Natural Humanoid",
+      "defeated_by": "n/a"
+    },
+    {
+      "name": "Spice Girl",
+      "part": 5,
+      "stand_type": "Close-Range",
+      "color": "White",
+      "design": "Natural Humanoid",
+      "defeated_by": "n/a"
+    },
+    {
+      "name": "Mr.President",
+      "part": 5,
+      "stand_type": "Automatic",
+      "color": "Green",
+      "design": "Artificial Non-Humanoid",
+      "defeated_by": "n/a"
+    },
+    {
+      "name": "Silver Chariot",
+      "part": 5,
+      "stand_type": "Close-Range",
+      "color": "Silver",
+      "design": "Artificial Humanoid",
+      "defeated_by": "n/a"
+    },
+    {
+      "name": "King Crimson",
+      "part": 5,
+      "stand_type": "Close-Range",
+      "color": "Red",
+      "design": "Artificial Humanoid",
+      "defeated_by": "Vinegar Doppio"
+    },
+    {
+      "name": "Echoes",
+      "part": 5,
+      "stand_type": "Close-Range",
+      "color": "White",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "n/a"
+    },
+    {
+      "name": "Black Sabbath",
+      "part": 5,
+      "stand_type": "Automatic",
+      "color": "Black",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "Polpo"
+    },
+    {
+      "name": "Soft Machine",
+      "part": 5,
+      "stand_type": "Automatic",
+      "color": "White",
+      "design": "Artificial Non-Humanoid",
+      "defeated_by": "Mario Zucchero"
+    },
+    {
+      "name": "Kraft Work",
+      "part": 5,
+      "stand_type": "Automatic",
+      "color": "Black",
+      "design": "Artificial Non-Humanoid",
+      "defeated_by": "Sale"
+    },
+    {
+      "name": "Little Feet",
+      "part": 5,
+      "stand_type": "Close-Range",
+      "color": "Yellow",
+      "design": "Artificial Non-Humanoid",
+      "defeated_by": "Formaggio"
+    },
+    {
+      "name": "Man in the Mirror",
+      "part": 5,
+      "stand_type": "Close-Range",
+      "color": "Blue",
+      "design": "Artificial Non-Humanoid",
+      "defeated_by": "Illuso"
+    },
+    {
+      "name": "Beach Boy",
+      "part": 5,
+      "stand_type": "Long-Range",
+      "color": "Gray",
+      "design": "Artificial Non-Humanoid",
+      "defeated_by": "Pesci"
+    },
+    {
+      "name": "The Grateful Dead",
+      "part": 5,
+      "stand_type": "Automatic",
+      "color": "Green",
+      "design": "Artificial Non-Humanoid",
+      "defeated_by": "Prosciutto"
+    },
+    {
+      "name": "Baby Face",
+      "part": 5,
+      "stand_type": "Close-Range",
+      "color": "Yellow",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "Melone"
+    },
+    {
+      "name": "White Album",
+      "part": 5,
+      "stand_type": "Close-Range",
+      "color": "White",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "Ghiaccio"
+    },
+    {
+      "name": "Clash",
+      "part": 5,
+      "stand_type": "Long-Range",
+      "color": "Green",
+      "design": "Artificial Non-Humanoid",
+      "defeated_by": "Squalo"
+    },
+    {
+      "name": "Talking Head",
+      "part": 5,
+      "stand_type": "Close-Range",
+      "color": "Blue",
+      "design": "Artificial Non-Humanoid",
+      "defeated_by": "Tizzano"
+    },
+    {
+      "name": "Notorious B.I.G",
+      "part": 5,
+      "stand_type": "Automatic",
+      "color": "Purple",
+      "design": "Phenomenon",
+      "defeated_by": "Carne"
+    },
+    {
+      "name": "Metallica",
+      "part": 5,
+      "stand_type": "Close-Range",
+      "color": "Silver",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "Risotto Nero"
+    },
+    {
+      "name": "Green Day",
+      "part": 5,
+      "stand_type": "Long-Range",
+      "color": "Green",
+      "design": "Artificial Non-Humanoid",
+      "defeated_by": "Cioccolata"
+    },
+    {
+      "name": "Oasis",
+      "part": 5,
+      "stand_type": "Automatic",
+      "color": "Green",
+      "design": "Artificial Non-Humanoid",
+      "defeated_by": "Secco"
+    },
+    {
+      "name": "Rolling Stones",
+      "part": 5,
+      "stand_type": "Automatic",
+      "color": "Gray",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "Scolippi"
+    },
+    {
+      "name": "Stone Free",
+      "part": 6,
+      "stand_type": "Close-Range",
+      "color": "White",
+      "design": "Natural Humanoid",
+      "defeated_by": "n/a"
+    },
+    {
+      "name": "Kiss",
+      "part": 6,
+      "stand_type": "Close-Range",
+      "color": "White",
+      "design": "Natural Humanoid",
+      "defeated_by": "n/a"
+    },
+    {
+      "name": "Burning Down the House",
+      "part": 6,
+      "stand_type": "Automatic",
+      "color": "Red",
+      "design": "Phenomenon",
+      "defeated_by": "n/a"
+    },
+    {
+      "name": "Foo Fighters",
+      "part": 6,
+      "stand_type": "Close-Range",
+      "color": "Blue",
+      "design": "Natural Humanoid",
+      "defeated_by": "n/a"
+    },
+    {
+      "name": "Weather Report",
+      "part": 6,
+      "stand_type": "Close-Range",
+      "color": "White",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "n/a"
+    },
+    {
+      "name": "Diver Down",
+      "part": 6,
+      "stand_type": "Close-Range",
+      "color": "Blue",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "n/a"
+    },
+    {
+      "name": "Whitesnake",
+      "part": 6,
+      "stand_type": "Psychological Assault",
+      "color": "White",
+      "design": "Natural Humanoid",
+      "defeated_by": "n/a"
+    },
+    {
+      "name": "C-MOON",
+      "part": 6,
+      "stand_type": "Close-Range",
+      "color": "White",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "n/a"
+    },
+    {
+      "name": "Made in Heaven",
+      "part": 6,
+      "stand_type": "Automatic",
+      "color": "White",
+      "design": "Artificial Non-Humanoid",
+      "defeated_by": "n/a"
+    },
+    {
+      "name": "Goo Goo Dolls",
+      "part": 6,
+      "stand_type": "Close-Range",
+      "color": "White",
+      "design": "Artificial Humanoid",
+      "defeated_by": "n/a"
+    },
+    {
+      "name": "Manhattan Transfer",
+      "part": 6,
+      "stand_type": "Automatic",
+      "color": "Gray",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "n/a"
+    },
+    {
+      "name": "Highway to Hell",
+      "part": 6,
+      "stand_type": "Automatic",
+      "color": "Gray",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "n/a"
+    },
+    {
+      "name": "Marilyn Manson",
+      "part": 6,
+      "stand_type": "Automatic",
+      "color": "Gray",
+      "design": "Natural Humanoid",
+      "defeated_by": "n/a"
+    },
+    {
+      "name": "Jumpin' Jack Flash",
+      "part": 6,
+      "stand_type": "Automatic",
+      "color": "Gray",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "n/a"
+    },
+    {
+      "name": "Limp Bizkit",
+      "part": 6,
+      "stand_type": "Automatic",
+      "color": "Gray",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "n/a"
+    },
+    {
+      "name": "Survivor",
+      "part": 6,
+      "stand_type": "Automatic",
+      "color": "Yellow",
+      "design": "Natural Humanoid",
+      "defeated_by": "n/a"
+    },
+    {
+      "name": "Planet Waves",
+      "part": 6,
+      "stand_type": "Long-Range",
+      "color": "Orange",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "n/a"
+    },
+    {
+      "name": "Dragon's Dream",
+      "part": 6,
+      "stand_type": "Automatic",
+      "color": "Green",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "n/a"
+    },
+    {
+      "name": "Yo-Yo Ma",
+      "part": 6,
+      "stand_type": "Close-Range",
+      "color": "Green",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "n/a"
+    },
+    {
+      "name": "Green, Green Grass of Home",
+      "part": 6,
+      "stand_type": "Automatic",
+      "color": "Green",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "n/a"
+    },
+    {
+      "name": "Jail House Lock",
+      "part": 6,
+      "stand_type": "Psychological Assault",
+      "color": "Yellow",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "Jolyne Cujoh"
+    },
+    {
+      "name": "Bohemian Rhapsody",
+      "part": 6,
+      "stand_type": "Psychological Assault",
+      "color": "n/a",
+      "design": "Artificial Non-Humanoid",
+      "defeated_by": "n/a"
+    },
+    {
+      "name": "Sky High",
+      "part": 6,
+      "stand_type": "Close-Range",
+      "color": "White",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "n/a"
+    },
+    {
+      "name": "Under World",
+      "part": 6,
+      "stand_type": "Automatic",
+      "color": "Gray",
+      "design": "Natural Non-Humanoid",
+      "defeated_by": "n/a"
+    }
+  ]
+}

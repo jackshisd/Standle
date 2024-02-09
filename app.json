@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Standle",
-    "slug": "Standle",
+    "name": "gi",
+    "slug": "standle",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -9,22 +9,32 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#ffffff",
+      "jsEngine": "jsc"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.jmshi.standle"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.jmshi.standle"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
-    }
-  }
+      "favicon": "./assets/standlefavicon.png"
+    },
+    "sdkVersion": "50.0.0",
+    "plugins": ["expo-font"],
+    "extra": {
+      "eas": {
+        "projectId": "f4ab06e8-7cb6-4a7d-ac58-385c23f834b1"
+      }
+    },
+    "owner": "jmshi"
+  },
+  "name": "standle"
 }
