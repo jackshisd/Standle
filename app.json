@@ -1,11 +1,12 @@
 {
   "expo": {
-    "name": "gi",
+    "name": "Standle",
     "slug": "standle",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
+    "entryPoint": "./App.js",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -25,10 +26,12 @@
       "package": "com.jmshi.standle"
     },
     "web": {
-      "favicon": "./assets/standlefavicon.png"
+      "favicon": "./assets/standlefavicon.png",
+      "bundler": "metro",
+      "output": "static"
     },
     "sdkVersion": "50.0.0",
-    "plugins": ["expo-font"],
+    "plugins": ["expo-font", "expo-router"],
     "extra": {
       "eas": {
         "projectId": "f4ab06e8-7cb6-4a7d-ac58-385c23f834b1"
@@ -36,5 +39,6 @@
     },
     "owner": "jmshi"
   },
-  "name": "standle"
+  "name": "standle",
+  "scheme": "your-app-scheme"
 }
